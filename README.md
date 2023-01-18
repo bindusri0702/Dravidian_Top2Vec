@@ -3,14 +3,8 @@
 
 
 <p align="center">
-  <img alt="Light" src="images/dravidian.png" width="25%">
-&nbsp; &nbsp; &nbsp; &nbsp;
-  <img alt="Dark" src="images/plus_png.png" width="10%">
-  &nbsp; &nbsp; &nbsp; &nbsp;
-  <img alt="Dark" src="images/top2vec.jpg" width="25%">
+  <img src="images/dravidian_top2vec.jpg" alt="Dravidian - Top2Vec" width="50%">
 </p>
-
-
 
 <!-- TABLE OF CONTENTS -->
 <details>
