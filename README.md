@@ -1,5 +1,14 @@
 <a name="readme-top"></a>
 
+<div align="center">
+  <a href="https://github.com/othneildrew/Best-README-Template">
+    <img src="https://external-preview.redd.it/BYsDvxbkIU_Ph_---ZSRcgU-3x9QdC_IxIlkY_Jwl7I.jpg?auto=webp&s=4a2ac93d4589d8b6232aee0da80da18b67174651" alt="Logo" width="80" height="80">
+  </a>
+</div>
+
+  <h3 align="center">Dravidian Top2Vec</h3>
+
+
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents</summary>
