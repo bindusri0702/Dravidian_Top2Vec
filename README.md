@@ -1,10 +1,10 @@
 <a name="readme-top"></a>
 
-
-
 <p align="center">
-  <img src="images/dravidian_top2vec.jpg" alt="Dravidian - Top2Vec" width="50%">
+  <img src="images/dravidian_top2vec.jpg" alt="DravidianTop2Vec" width="50%">
 </p>
+<h3 align="center">Dravidian - Top2Vec</h3>
+
 
 <!-- TABLE OF CONTENTS -->
 <details>
@@ -31,6 +31,11 @@
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
+
+
+
+
+
 
 
 # Dravidian_Top2Vec
