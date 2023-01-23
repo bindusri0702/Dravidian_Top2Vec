@@ -30,6 +30,7 @@ Top2Vec language modelling on Tamil and Telugu news data
     <li><a href="#tamil">Top2Vec on Tamil news articles</a></li>
     <li><a href="#telugu">Top2Vec on Telugu news articles</a></li>
     <li><a href="#kannada">Top2Vec on Kannada news articles</a></li>
+    <li><a href="#malayalam">Top2Vec on Malayalam news articles</a></li>
     <li><a href="#streamlit">Streamlit GUI</a></li>
     <li><a href="#acknowledgment">Acknowledgment</a></li>
   </ol>
@@ -202,6 +203,8 @@ Dataset used - [Malayalam_data](https://www.kaggle.com/datasets/sabinhashmi/mala
 Topic words found using above embedding models and tokenizers - [malayalam_results](https://docs.google.com/spreadsheets/d/13fgj7zq4Fl7njgrrOy-wcpPfee7h6rqRYrwzH-vve2w/edit?usp=sharing)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+### Streamlit GUI
 
 
 
