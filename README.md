@@ -121,6 +121,8 @@ UMAP compared to t-SNE etc., preserves global structure and scales large dataset
 
 Find dense areas of documents using HDBSCAN. Each cluster represents a topic.
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 ### Embedding Models
 
 Dravidian Top2Vec is trained on many embedding models. These are some of the models that shown better performance -
@@ -133,6 +135,8 @@ indic_bert = 'https://huggingface.co/ai4bharat/indic-bert'
 
 opus = 'https://huggingface.co/Helsinki-NLP/opus-mt-en-dra'
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 ### Tokenizers
 
 Custom tokenizer is built to deal with dravidian languages. Dravidian Top2Vec showed better performance with following tokenizers -
@@ -144,3 +148,61 @@ muril_large = AutoTokenizer.from_pretrained('google/muril-large-cased')
 indic_bert = AutoTokenizer.from_pretrained('ai4bharat/indic-bert')
 
 opus = AutoTokenizer.from_pretrained('Helsinki-NLP/opus-mt-en-dra')
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+### Top2Vec on Tamil news articles
+
+Dataset used - [tamil_data](https://www.kaggle.com/datasets/vijayabhaskar96/tamil-news-classification-dataset-tamilmurasu)
+
+<p align="center">
+  <img src="images/tamil_data.jpg" alt="tamildata" width="20%">
+</p>
+<h3 align="center">Tamil - Data</h3>
+
+Topic words found using above embedding models and tokenizers - [tamil_results](https://docs.google.com/spreadsheets/d/1Nqb7UjVDgSAnLkm48jLlgWN-KBNk-By8awnnud9e5NA/edit?usp=sharing)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+### Top2Vec on Telugu news articles
+
+Dataset used - [telugu_data](https://www.kaggle.com/datasets/sudalairajkumar/telugu-nlp)
+
+<p align="center">
+  <img src="images/telugu_data.jpg" alt="telugudata" width="20%">
+</p>
+<h3 align="center">Telugu - Data</h3>
+
+Topic words found using above embedding models and tokenizers - [telugu_results](https://docs.google.com/spreadsheets/d/1Zd1ZyQWD83iy3F372p2ZZMhPgc1_aTcgbBJepSFUtsk/edit?usp=sharing)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+### Top2Vec on Kannada news articles
+
+Dataset used - [kannada_data](https://www.kaggle.com/datasets/disisbig/kannada-news-dataset)
+
+<p align="center">
+  <img src="images/kannada_data.jpg" alt="telugudata" width="20%">
+</p>
+<h3 align="center">Kannada - Data</h3>
+
+Topic words found using above embedding models and tokenizers - [kannada_results](https://docs.google.com/spreadsheets/d/1CVUOoyv53LwsFnFctzw77PnI2Dmej77Xh5ZBoNmM8QA/edit?usp=sharing)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+### Top2Vec on Malayalam news articles
+
+Dataset used - [Malayalam_data](https://www.kaggle.com/datasets/sabinhashmi/malayalam-news-data)
+
+<p align="center">
+  <img src="images/malayalam_data.jpg" alt="telugudata" width="20%">
+</p>
+<h3 align="center">Malayalam - Data</h3>
+
+Topic words found using above embedding models and tokenizers - [malayalam_results](https://docs.google.com/spreadsheets/d/13fgj7zq4Fl7njgrrOy-wcpPfee7h6rqRYrwzH-vve2w/edit?usp=sharing)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+
+
