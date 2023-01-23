@@ -32,7 +32,7 @@ Top2Vec language modelling on Tamil and Telugu news data
     <li><a href="#kannada">Top2Vec on Kannada news articles</a></li>
     <li><a href="#malayalam">Top2Vec on Malayalam news articles</a></li>
     <li><a href="#streamlit">Streamlit GUI</a></li>
-    <li><a href="#acknowledgment">Acknowledgment</a></li>
+    <li><a href="#references">References</a></li>
   </ol>
 </details>
 
@@ -221,7 +221,9 @@ Topic words found using above embedding models and tokenizers - [malayalam_resul
 ### References
 
 [Top2Vec](https://arxiv.org/pdf/2008.09470.pdf)
+
 [HuggingFace Tokenizers](https://huggingface.co/)
+
 [HuggingFace_Transformers](https://huggingface.co/)
 
 
