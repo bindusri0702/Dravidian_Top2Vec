@@ -108,13 +108,19 @@ pip install transformers
 ```sh
 pip install -U sentence-transformers
 ```
-
-
-
-
-
-
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+### Uniform Manifold Approximation and Projection - UMAP
 
+Create lower dimensional embedding of document vectors using UMAP.
+
+Document vectors in high dimensional space are very sparse, dimension reduction helps for finding dense areas. Each point is a document vector. 
+UMAP compared to t-SNE etc., preserves global structure and scales large datasets well.
+
+### Hierarchical Density-Based Spatial Clustering of Applications with Noise - HDBSCAN
+
+Find dense areas of documents using HDBSCAN. Each cluster represents a topic.
+
+### Embedding Models
+
+Dravidian Top2Vec is trained on many embedding models. These are  
