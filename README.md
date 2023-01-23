@@ -206,6 +206,14 @@ Topic words found using above embedding models and tokenizers - [malayalam_resul
 
 ### Streamlit GUI
 
+<p align="center">
+  <img src="Streamlit_files/gui1.png" alt="Gui1" width="20%">
+</p>
+<h3 align="center">Streamlit interface</h3>
 
+<p align="center">
+  <img src="Streamlit_files/gui2.png" alt="Gui2" width="20%">
+</p>
+<h3 align="center">Stramlit on Tamil data</h3>
 
 
