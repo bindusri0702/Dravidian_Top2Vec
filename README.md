@@ -123,4 +123,24 @@ Find dense areas of documents using HDBSCAN. Each cluster represents a topic.
 
 ### Embedding Models
 
-Dravidian Top2Vec is trained on many embedding models. These are  
+Dravidian Top2Vec is trained on many embedding models. These are some of the models that shown better performance -
+
+muril_base = 'https://huggingface.co/google/muril-base-cased'
+
+muril_large = 'https://huggingface.co/google/muril-large-cased'
+
+indic_bert = 'https://huggingface.co/ai4bharat/indic-bert'
+
+opus = 'https://huggingface.co/Helsinki-NLP/opus-mt-en-dra'
+
+### Tokenizers
+
+Custom tokenizer is built to deal with dravidian languages. Dravidian Top2Vec showed better performance with following tokenizers -
+
+muril_base = AutoTokenizer.from_pretrained('google/muril-base-cased')
+
+muril_large = AutoTokenizer.from_pretrained('google/muril-large-cased')
+
+indic_bert = AutoTokenizer.from_pretrained('ai4bharat/indic-bert')
+
+opus = AutoTokenizer.from_pretrained('Helsinki-NLP/opus-mt-en-dra')
