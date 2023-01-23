@@ -62,7 +62,7 @@ Benefits
 5. Creates jointly embedded topic, document, and word vectors. 
 6. Has search functions built in.
 
-This project uses the basic functions of Top2Vec like number of detected topics and name of topics detected for dravidian languages.
+This project focuses on the basic functions of Top2Vec like number of detected topics and name of topics detected for dravidian languages.
 
 <p align="center">
   <img src="images/dravidian_top2vec.jpg" alt="DravidianTop2Vec" width="50%">
@@ -77,6 +77,37 @@ In this growing digital era, with the rapid increase in technology, data has als
 word and document vectors, with the distance between them signifying semantic similarity.
 
 ### Prerequisites
+
+Installation of required packages
+
+* umap
+  ```sh
+  pip uninstall umap
+  ```
+* umap-learn
+  ```sh
+  pip install umap-learn
+  ```
+* gensim
+  ```sh
+  pip install gensim==4.2.0
+  ```
+* joblib
+```sh
+pip install joblib==1.1.0
+```
+* hdbscan
+```sh
+pip install hdbscan
+```
+* transformers
+```sh
+pip install transformers
+```
+* sentence-transformers
+```sh
+pip install -U sentence-transformers
+```
 
 
 
