@@ -207,13 +207,23 @@ Topic words found using above embedding models and tokenizers - [malayalam_resul
 ### Streamlit GUI
 
 <p align="center">
-  <img src="Streamlit_files/gui1.png" alt="Gui1" width="20%">
+  <img src="Streamlit_files/gui1.png" alt="Gui1" width="40%">
 </p>
 <h3 align="center">Streamlit interface</h3>
 
 <p align="center">
-  <img src="Streamlit_files/gui2.png" alt="Gui2" width="20%">
+  <img src="Streamlit_files/gui2.png" alt="Gui2" width="40%">
 </p>
 <h3 align="center">Stramlit on Tamil data</h3>
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+### References
+
+[Top2Vec](https://arxiv.org/pdf/2008.09470.pdf)
+[HuggingFace Tokenizers](https://huggingface.co/)
+[HuggingFace_Transformers](https://huggingface.co/)
+
+
 
 
